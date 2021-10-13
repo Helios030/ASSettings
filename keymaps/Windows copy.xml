@@ -2,6 +2,11 @@
   <action id="Android.GenerateSignedApk">
     <keyboard-shortcut first-keystroke="shift ctrl alt b" />
   </action>
+  <action id="Flutter.ExtractWidget">
+    <keyboard-shortcut first-keystroke="ctrl alt w" />
+    <keyboard-shortcut first-keystroke="caps_lock" />
+    <keyboard-shortcut first-keystroke="shift ctrl q" />
+  </action>
   <action id="GsonFormatPlus">
     <keyboard-shortcut first-keystroke="alt s" />
     <keyboard-shortcut first-keystroke="shift ctrl s" />
